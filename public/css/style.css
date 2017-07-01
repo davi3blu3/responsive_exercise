@@ -14,3 +14,14 @@ blockquote {
     color: black;
     border-left: none;
 }
+
+.portrait {
+    width: 80%;
+    border: 1px solid black;
+    background-color: white;
+    padding: 10px;
+}
+
+.timeline-img {
+    width: 100%;
+}
