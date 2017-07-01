@@ -1,0 +1,27 @@
+{
+  "name": "responsive_exercise",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Nashville exercise in responsive design",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi3blu3/responsive_exercise.git"
+  },
+  "keywords": [
+    "mobile-first",
+    "responsive-design"
+  ],
+  "author": "davi3blu3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davi3blu3/responsive_exercise/issues"
+  },
+  "homepage": "https://github.com/davi3blu3/responsive_exercise#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
