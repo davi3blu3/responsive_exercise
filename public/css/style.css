@@ -1,4 +1,16 @@
 body {
-    background-color: chartreuse;
-    color: peru
+    background-color: skyblue;
+    color: darkblue;
+}
+
+section {
+    border: 4px solid grey;
+    background-color: white;
+    margin: 8px;
+    padding: 8px 18px;
+}
+
+blockquote {
+    color: black;
+    border-left: none;
 }
